@@ -18,7 +18,7 @@
 
 &nbsp;🎓 &nbsp;B.Tech CSE @ **Medicaps University**, Indore · 2022–2026
 
-&nbsp;☁️ &nbsp;**AWS Academy Graduate** — Cloud Architecting
+&nbsp;☁️ &nbsp;**AWS Academy Graduate** Cloud Architecting
 
 &nbsp;🔭 &nbsp;Currently building multi-agent AI + K8s systems
 
@@ -26,7 +26,7 @@
 
 &nbsp;⚙️ &nbsp;DevOps: **Docker · Kubernetes · GitHub Actions · AWS**
 
-&nbsp;💡 &nbsp;I automate the boring stuff — then automate the automation
+&nbsp;💡 &nbsp;I automate the boring stuff then automate the automation
 
 &nbsp;📬 &nbsp;Reach me at **work.om.tiwari@gmail.com**
 
@@ -65,7 +65,7 @@
 
 | 🏷️ Project | 📝 Description | 🔧 Stack |
 |:---|:---|:---|
-| [**Multi-Agent K8s Deployment**](https://github.com/omtiwari17/Deploy-Manufacturing-App-to-Kubernetes) | CrewAI app on AWS EKS — zero-downtime rolling updates, CI/CD auto-deploys on every push | `Docker` `K8s` `AWS EKS` `GH Actions` |
+| [**Multi-Agent K8s Deployment**](https://github.com/omtiwari17/Deploy-Manufacturing-App-to-Kubernetes) | CrewAI app on AWS EKS zero-downtime rolling updates, CI/CD auto-deploys on every push | `Docker` `K8s` `AWS EKS` `GH Actions` |
 | [**Live Cricket WinPulse**](https://github.com/omtiwari17/live-cricket-winpulse) | Real-time dashboard with custom ball-by-ball win probability engine, live on Render | `Django` `Python` `REST API` |
 | [**Patient Depict System**](https://github.com/omtiwari17/Patient-Depict-System) | Hospital portal with RBAC, doctor dashboards, email automation & tokenized family pages | `Django` `RBAC` `SMTP` `SQLite` |
 | [**Multi-Agent System**](https://github.com/omtiwari17/Multi-agent-system) | Automates supplier sourcing & comparison reports via CrewAI + LLMs | `Python` `CrewAI` `LLMs` |
@@ -76,23 +76,14 @@
 ---
 
 ### 📊 &nbsp;GitHub Stats
-
 <div align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=omtiwari17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&ring_color=60a5fa&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=omtiwari17&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&langs_count=6" />
+  <img src="https://streak-stats.demolab.com?user=omtiwari17&theme=github-dark-blue&hide_border=true&background=0D1117&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=475569&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-git-main-denvercoder1.vercel.app?user=omtiwari17&theme=github-dark-blue&hide_border=true&background=0D1117&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=475569&currStreakNum=ffffff&sideNums=ffffff" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtiwari17&bg_color=0d1117&color=60a5fa&line=60a5fa&point=ffffff&hide_border=true&area=true&area_color=60a5fa" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtiwari17&bg_color=0d1117&color=60a5fa&line=60a5fa&point=ffffff&hide_border=true&area=true&area_color=1e3a5f" />
 </div>
 
 ---
