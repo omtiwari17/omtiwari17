@@ -91,6 +91,7 @@
 <div align="center">
 
 [![AWS](https://img.shields.io/badge/AWS_Academy_Graduate-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/go/Y4C9LAtF)
+
 `EC2` &nbsp;`S3` &nbsp;`VPC` &nbsp;`IAM` &nbsp;`RDS` &nbsp;·&nbsp; Well-Architected Framework &nbsp;·&nbsp; Least-Privilege Security &nbsp;·&nbsp; Cost Optimization
 
 </div>
@@ -99,7 +100,7 @@
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"First, solve the problem. Then, write the code."* - John Johnson
 
 <br/>
 
