@@ -94,6 +94,10 @@
 
 `EC2` &nbsp;`S3` &nbsp;`VPC` &nbsp;`IAM` &nbsp;`RDS` &nbsp;·&nbsp; Well-Architected Framework &nbsp;·&nbsp; Least-Privilege Security &nbsp;·&nbsp; Cost Optimization
 
+[![Agentic AI](https://img.shields.io/badge/Agentic_AI-Foundations-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)](link-to-your-certificate)
+
+`Autonomous Agents` &nbsp;`Tool Calling` &nbsp;`Prompt Engineering` &nbsp;`Memory Systems` &nbsp;·&nbsp; Multi-Step Reasoning &nbsp;·&nbsp; Workflow Automation
+
 </div>
 
 ---
