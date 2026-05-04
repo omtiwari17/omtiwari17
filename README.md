@@ -22,7 +22,7 @@
 
 &nbsp;🔭 &nbsp;Currently building multi-agent AI + K8s systems
 
-&nbsp;🌐 &nbsp;Backend-first: **Python · Django · REST APIs**
+&nbsp;🌐 &nbsp;Backend-first: **Python · Django**
 
 &nbsp;⚙️ &nbsp;DevOps: **Docker · Kubernetes · GitHub Actions · AWS**
 
