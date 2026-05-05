@@ -94,6 +94,10 @@
 
 `EC2` &nbsp;`S3` &nbsp;`VPC` &nbsp;`IAM` &nbsp;`RDS` &nbsp;·&nbsp; Well-Architected Framework &nbsp;·&nbsp; Least-Privilege Security &nbsp;·&nbsp; Cost Optimization
 
+[![DevOps](https://img.shields.io/badge/Nasscom_Datagami-DevOps_Foundation-00AEEF?style=for-the-badge&logo=ibm&logoColor=white)](Your-Certificate-Link-Here)
+
+`CI/CD` &nbsp;`Docker` &nbsp;`Kubernetes` &nbsp;`Infrastructure as Code` &nbsp;·&nbsp; 80-Hour Skill Project &nbsp;·&nbsp; IBM Gold Partner Program
+
 [![Agentic AI](https://img.shields.io/badge/Agentic_AI-Foundations-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)](link-to-your-certificate)
 
 `Autonomous Agents` &nbsp;`Tool Calling` &nbsp;`Prompt Engineering` &nbsp;`Memory Systems` &nbsp;·&nbsp; Multi-Step Reasoning &nbsp;·&nbsp; Workflow Automation
