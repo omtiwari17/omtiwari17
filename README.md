@@ -102,6 +102,10 @@
 
 `Autonomous Agents` &nbsp;`Tool Calling` &nbsp;`Prompt Engineering` &nbsp;`Memory Systems` &nbsp;·&nbsp; Multi-Step Reasoning &nbsp;·&nbsp; Workflow Automation
 
+[![Generative AI](https://img.shields.io/badge/Nasscom_Datagami-Generative_AI-6200EE?style=for-the-badge&logo=google-gemini&logoColor=white)](https://example.com/your-cert-link)
+
+`LLMs` &nbsp;`Diffusion Models` &nbsp;`RAG` &nbsp;`Fine-Tuning` &nbsp;·&nbsp; 80-Hour Skill Project &nbsp;·&nbsp; IBM Gold Partner Program
+
 </div>
 
 ---
