@@ -93,18 +93,18 @@
 <div align="center">
 
 [![AWS](https://img.shields.io/badge/AWS_Academy_Graduate-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/training/awsacademy/)
-[![Agentic AI](https://img.shields.io/badge/Datagami_×_NASSCOM-Agentic_AI-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://github.com/omtiwari17)
-[![DevOps Foundation](https://img.shields.io/badge/Datagami_×_NASSCOM-DevOps_Foundation-326CE5?style=for-the-badge&logo=ibm&logoColor=white)](https://github.com/omtiwari17)
-[![Generative AI](https://img.shields.io/badge/Datagami_×_NASSCOM-Generative_AI-6D28D9?style=for-the-badge&logo=ibm&logoColor=white)](https://github.com/omtiwari17)
+[![Agentic AI](https://img.shields.io/badge/Datagami_×_NASSCOM-Agentic_AI-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://drive.google.com/file/d/1HOYkEgzWUkQny9Xchn0THtwkviwbcTcK/view?usp=sharing)
+[![DevOps Foundation](https://img.shields.io/badge/Datagami_×_NASSCOM-DevOps_Foundation-326CE5?style=for-the-badge&logo=ibm&logoColor=white)](https://drive.google.com/file/d/1YSG1NZkOxdCIYHRAJteghK8ok4z_el87/view?usp=sharing)
+[![Generative AI](https://img.shields.io/badge/Datagami_×_NASSCOM-Generative_AI-6D28D9?style=for-the-badge&logo=ibm&logoColor=white)](https://drive.google.com/file/d/1NWmMbDUPWa6SZgWgfcSQrnFDcJZJ6stM/view?usp=sharing)
 
 <br/>
 
 | Certificate | Issued by | Period | Hours | Cert ID |
 |:---|:---|:---|:---:|:---|
 | ☁️ **AWS Academy — Cloud Architecting** | Amazon Web Services | Jun – Jul 2025 | — | — |
-| 🤖 **Agentic AI** | Datagami × NASSCOM × IBM | Jan – Feb 2026 | 80 hrs | `EDU-2026-TBNYN` |
-| ⚙️ **DevOps Foundation** | Datagami × NASSCOM × IBM | Feb – Mar 2026 | 80 hrs | `EDU-2026-VF5US` |
-| 🧠 **Generative AI** | Datagami × NASSCOM × IBM | Apr – May 2026 | 80 hrs | `EDU-2026-MDGWG` |
+| 🤖 [**Agentic AI**](https://drive.google.com/file/d/1HOYkEgzWUkQny9Xchn0THtwkviwbcTcK/view?usp=sharing) | Datagami × NASSCOM × IBM | Jan – Feb 2026 | 80 hrs | `EDU-2026-TBNYN` |
+| ⚙️ [**DevOps Foundation**](https://drive.google.com/file/d/1YSG1NZkOxdCIYHRAJteghK8ok4z_el87/view?usp=sharing) | Datagami × NASSCOM × IBM | Feb – Mar 2026 | 80 hrs | `EDU-2026-VF5US` |
+| 🧠 [**Generative AI**](https://drive.google.com/file/d/1NWmMbDUPWa6SZgWgfcSQrnFDcJZJ6stM/view?usp=sharing) | Datagami × NASSCOM × IBM | Apr – May 2026 | 80 hrs | `EDU-2026-MDGWG` |
 
 </div>
 
