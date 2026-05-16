@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiwariom/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omtiwari17)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=60A5FA)](http://omtiwari.tech)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.om.tiwari@gmail.com)
 
@@ -22,7 +22,7 @@
 
 &nbsp;🔭 &nbsp;Currently building multi-agent AI + K8s systems
 
-&nbsp;🌐 &nbsp;Backend-first: **Python · Django**
+&nbsp;🌐 &nbsp;Backend-first: **Python · Django · REST APIs**
 
 &nbsp;⚙️ &nbsp;DevOps: **Docker · Kubernetes · GitHub Actions · AWS**
 
@@ -42,11 +42,13 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -90,21 +92,19 @@
 
 <div align="center">
 
-[![AWS](https://img.shields.io/badge/AWS_Academy_Graduate-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/go/Y4C9LAtF)
+[![AWS](https://img.shields.io/badge/AWS_Academy_Graduate-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/training/awsacademy/)
+[![Agentic AI](https://img.shields.io/badge/Datagami_×_NASSCOM-Agentic_AI-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://github.com/omtiwari17)
+[![DevOps Foundation](https://img.shields.io/badge/Datagami_×_NASSCOM-DevOps_Foundation-326CE5?style=for-the-badge&logo=ibm&logoColor=white)](https://github.com/omtiwari17)
+[![Generative AI](https://img.shields.io/badge/Datagami_×_NASSCOM-Generative_AI-6D28D9?style=for-the-badge&logo=ibm&logoColor=white)](https://github.com/omtiwari17)
 
-`EC2` &nbsp;`S3` &nbsp;`VPC` &nbsp;`IAM` &nbsp;`RDS` &nbsp;·&nbsp; Well-Architected Framework &nbsp;·&nbsp; Least-Privilege Security &nbsp;·&nbsp; Cost Optimization
+<br/>
 
-[![DevOps](https://img.shields.io/badge/Nasscom_Datagami-DevOps_Foundation-00AEEF?style=for-the-badge&logo=ibm&logoColor=white)](Your-Certificate-Link-Here)
-
-`CI/CD` &nbsp;`Docker` &nbsp;`Kubernetes` &nbsp;`Infrastructure as Code` &nbsp;·&nbsp; 80-Hour Skill Project &nbsp;·&nbsp; IBM Gold Partner Program
-
-[![Agentic AI](https://img.shields.io/badge/Agentic_AI-Foundations-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)](link-to-your-certificate)
-
-`Autonomous Agents` &nbsp;`Tool Calling` &nbsp;`Prompt Engineering` &nbsp;`Memory Systems` &nbsp;·&nbsp; Multi-Step Reasoning &nbsp;·&nbsp; Workflow Automation
-
-[![Generative AI](https://img.shields.io/badge/Nasscom_Datagami-Generative_AI-6200EE?style=for-the-badge&logo=google-gemini&logoColor=white)](https://example.com/your-cert-link)
-
-`LLMs` &nbsp;`Diffusion Models` &nbsp;`RAG` &nbsp;`Fine-Tuning` &nbsp;·&nbsp; 80-Hour Skill Project &nbsp;·&nbsp; IBM Gold Partner Program
+| Certificate | Issued by | Period | Hours | Cert ID |
+|:---|:---|:---|:---:|:---|
+| ☁️ **AWS Academy — Cloud Architecting** | Amazon Web Services | Jun – Jul 2025 | — | — |
+| 🤖 **Agentic AI** | Datagami × NASSCOM × IBM | Jan – Feb 2026 | 80 hrs | `EDU-2026-TBNYN` |
+| ⚙️ **DevOps Foundation** | Datagami × NASSCOM × IBM | Feb – Mar 2026 | 80 hrs | `EDU-2026-VF5US` |
+| 🧠 **Generative AI** | Datagami × NASSCOM × IBM | Apr – May 2026 | 80 hrs | `EDU-2026-MDGWG` |
 
 </div>
 
@@ -112,7 +112,7 @@
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* - John Johnson
+*"First, solve the problem. Then, write the code."* — John Johnson
 
 <br/>
 
