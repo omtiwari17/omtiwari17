@@ -42,13 +42,11 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -92,16 +90,18 @@
 
 <div align="center">
 
-[![AWS](https://img.shields.io/badge/AWS_Academy_Graduate-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/training/awsacademy/)
+[![Cloud Foundations](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/go/vCtp5wcR)
+[![Cloud Architecting](https://img.shields.io/badge/AWS_Academy-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/go/Y4C9LAtF)
 [![Agentic AI](https://img.shields.io/badge/Datagami_×_NASSCOM-Agentic_AI-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://drive.google.com/file/d/1HOYkEgzWUkQny9Xchn0THtwkviwbcTcK/view?usp=sharing)
 [![DevOps Foundation](https://img.shields.io/badge/Datagami_×_NASSCOM-DevOps_Foundation-326CE5?style=for-the-badge&logo=ibm&logoColor=white)](https://drive.google.com/file/d/1YSG1NZkOxdCIYHRAJteghK8ok4z_el87/view?usp=sharing)
 [![Generative AI](https://img.shields.io/badge/Datagami_×_NASSCOM-Generative_AI-6D28D9?style=for-the-badge&logo=ibm&logoColor=white)](https://drive.google.com/file/d/1NWmMbDUPWa6SZgWgfcSQrnFDcJZJ6stM/view?usp=sharing)
 
 <br/>
 
-| Certificate | Issued by | Period | Hours | Cert ID |
+| Certificate | Issued by | Date | Hours | Verify |
 |:---|:---|:---|:---:|:---|
-| ☁️ **AWS Academy — Cloud Architecting** | Amazon Web Services | Jun – Jul 2025 | — | — |
+| ☁️ [**AWS Academy Cloud Foundations**](https://www.credly.com/go/vCtp5wcR) | Amazon Web Services | Jun 17, 2025 | 20 hrs | [Credly ↗](https://www.credly.com/go/vCtp5wcR) |
+| ☁️ [**AWS Academy Cloud Architecting**](https://www.credly.com/go/Y4C9LAtF) | Amazon Web Services | Jul 2, 2025 | 60 hrs | [Credly ↗](https://www.credly.com/go/Y4C9LAtF) |
 | 🤖 [**Agentic AI**](https://drive.google.com/file/d/1HOYkEgzWUkQny9Xchn0THtwkviwbcTcK/view?usp=sharing) | Datagami × NASSCOM × IBM | Jan – Feb 2026 | 80 hrs | `EDU-2026-TBNYN` |
 | ⚙️ [**DevOps Foundation**](https://drive.google.com/file/d/1YSG1NZkOxdCIYHRAJteghK8ok4z_el87/view?usp=sharing) | Datagami × NASSCOM × IBM | Feb – Mar 2026 | 80 hrs | `EDU-2026-VF5US` |
 | 🧠 [**Generative AI**](https://drive.google.com/file/d/1NWmMbDUPWa6SZgWgfcSQrnFDcJZJ6stM/view?usp=sharing) | Datagami × NASSCOM × IBM | Apr – May 2026 | 80 hrs | `EDU-2026-MDGWG` |
@@ -112,7 +112,7 @@
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"First, solve the problem. Then, write the code."* - John Johnson
 
 <br/>
 
