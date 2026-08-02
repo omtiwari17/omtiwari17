@@ -1,98 +1,44 @@
-# Hi, I'm Om Tiwari
+<div align="center">
 
-**Software Engineer** · Python & Django Developer · AWS Academy Graduate
+# Om Tiwari
 
-Software Engineer specializing in scalable Django REST APIs, cross-platform Flutter integrations, and highly available AWS infrastructure. Experienced in orchestrating containerized deployments, building secure CI/CD pipelines, and accelerating delivery using Agentic CLI development tools.
+### Python & Django Developer | AWS Academy Graduate
 
-[![Portfolio](https://img.shields.io/badge/omtiwari.tech-000?style=flat&logo=googlechrome&logoColor=white)](https://omtiwari.tech)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omtiwari17)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/omtiwari17)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:work.om.tiwari@gmail.com)
+Software Engineer specializing in scalable Django REST APIs, cross-platform Flutter mobile apps, and AWS cloud infrastructure.
 
----
+[Website](https://omtiwari.tech) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/omtiwari17) &nbsp;•&nbsp; [Email](mailto:work.om.tiwari@gmail.com)
 
-### Experience
+</div>
 
-#### **Software Engineer Trainee** · *Engineer Philosophy Web Services Pvt. Ltd.*
-`July 2026 – Present` · Indore, MP, India
+<br/>
 
-- Architecting a scalable, cross-platform Personal CRM using a Django REST API and migrating the frontend to Flutter for native mobile deployment.
-- Designing custom product logic for automated relationship drift detection, tiered frequency management, and AI-assisted message drafting.
-- Orchestrating production-ready infrastructure, integrating PostgreSQL, Celery background scheduling, and real-time Firebase push notifications.
+### ⚡ At a Glance
 
-#### **Cloud Architecting Intern** · *AWS Academy*
-`June 2025 – July 2025` · Remote
+| Focus | Details |
+| :--- | :--- |
+| **Current Role** | Software Engineer Trainee @ **Engineer Philosophy Web Services** |
+| **Specialization** | Django REST APIs • Flutter (Dart) • AWS (EKS, EC2, S3) |
+| **Cloud Credentials** | **AWS Academy Graduate** (Cloud Architecting & Cloud Foundations) |
+| **Workflow** | Accelerated development using **Claude Code (Agentic CLI)** |
 
-- Architected scalable, highly available AWS infrastructure (EC2, S3, RDS, VPC) optimized via the AWS Well-Architected Framework.
-- Engineered strict IAM role-based policies and custom network routing to enforce least-privilege access and secure deployments.
+<br/>
 
----
+### 🚀 Highlighted Work
 
-### Tech Stack
+- 🏭 **[Manufacturing AI Ecosystem](https://github.com/omtiwari17/Manufacturing-AI-Ecosystem)** — GenAI concept design + Agentic supplier research + CI/CD to AWS EKS.
+- ⚡ **[Live Cricket WinPulse](https://github.com/omtiwari17/live-cricket-winpulse)** — Real-time WASP win probability engine built with Django REST API. *(Live Demo)*
+- 📱 **Personal CRM** — Django REST API + Flutter mobile app with automated relationship drift detection & Firebase push.
 
-**Languages** · Python · SQL · C++ · C · Dart
+<br/>
 
-**Frameworks** · Django · Flutter · Streamlit
+### 🛠️ Core Stack
 
-**Cloud & DevOps** · AWS (EKS, EC2, S3, RDS, VPC) · Docker · Kubernetes · GitHub Actions
+`Python` `Django` `Flutter` `Dart` `AWS` `Docker` `Kubernetes` `PostgreSQL` `GitHub Actions` `Claude Code`
 
-**Agentic & AI Tools** · Claude Code (Agentic CLI) · CrewAI · Gemini API
-
----
-
-### Featured Projects
-
-#### [Manufacturing AI Ecosystem](https://github.com/omtiwari17/Manufacturing-AI-Ecosystem) ★
-
-A unified manufacturing intelligence platform integrating multimodal GenAI for concept design, agentic AI for supplier research, and a fully automated CI/CD pipeline deploying to AWS EKS.
-
-`Python` `CrewAI` `Gemini` `AWS EKS` `Docker` `Kubernetes` `GitHub Actions`
-
----
-
-#### [Multi-Agent K8s Deployment](https://github.com/omtiwari17/Deploy-Manufacturing-App-to-Kubernetes)
-
-CrewAI multi-agent system containerized and deployed to AWS EKS with zero-downtime rolling updates and CI/CD auto-deploys on every push.
-
-`Docker` `Kubernetes` `AWS EKS` `GitHub Actions`
-
-#### [Live Cricket WinPulse](https://github.com/omtiwari17/live-cricket-winpulse) · [Live Demo](https://live-cricket-winpulse.onrender.com/)
-
-Real-time cricket dashboard with a custom ball-by-ball win probability engine (WASP algorithm), dynamic API polling, and key rotation.
-
-`Django` `Python` `REST API` `Sports Analytics`
-
-#### [VectorShift Pipeline Builder](https://github.com/omtiwari17/vectorshift-pipeline-builder)
-
-Visual AI pipeline builder with a React Flow drag-and-drop canvas, node abstraction system, dynamic variable detection, and FastAPI DAG validation backend.
-
-`React` `React Flow` `FastAPI` `Python`
-
-#### [Patient Depict System](https://github.com/omtiwari17/Patient-Depict-System)
-
-Hospital portal with role-based access control, doctor dashboards, email automation, and tokenized secure family pages for patient status sharing.
-
-`Django` `RBAC` `SMTP` `SQLite`
-
----
-
-### Certifications
-
-| Certificate | Issuer | Verify |
-|:---|:---|:---|
-| AWS Academy Cloud Architecting | Amazon Web Services | [Credly ↗](https://www.credly.com/go/Y4C9LAtF) |
-| AWS Academy Cloud Foundations | Amazon Web Services | [Credly ↗](https://www.credly.com/go/vCtp5wcR) |
-| Agentic AI (80 hrs) | Datagami × NASSCOM × IBM | [Certificate ↗](https://drive.google.com/file/d/1HOYkEgzWUkQny9Xchn0THtwkviwbcTcK/view?usp=sharing) |
-| DevOps Foundation (80 hrs) | Datagami × NASSCOM × IBM | [Certificate ↗](https://drive.google.com/file/d/1YSG1NZkOxdCIYHRAJteghK8ok4z_el87/view?usp=sharing) |
-| Generative AI (80 hrs) | Datagami × NASSCOM × IBM | [Certificate ↗](https://drive.google.com/file/d/1NWmMbDUPWa6SZgWgfcSQrnFDcJZJ6stM/view?usp=sharing) |
+<br/>
 
 ---
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/omtiwari.tech-000?style=flat&logo=googlechrome&logoColor=white)](https://omtiwari.tech)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omtiwari17)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/omtiwari17)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:work.om.tiwari@gmail.com)
-
+<sub>Medicaps University '26 &nbsp;•&nbsp; Indore, India</sub>
 </div>
