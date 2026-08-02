@@ -76,20 +76,6 @@ Hospital portal with role-based access control, doctor dashboards, email automat
 
 ---
 
-### GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=omtiwari17&theme=transparent&hide_border=true&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=888&dates=555&currStreakNum=ddd&sideNums=ddd&stroke=333" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtiwari17&bg_color=00000000&color=3b82f6&line=3b82f6&point=ddd&hide_border=true&area=true&area_color=1e3a5f" />
-</div>
-
----
-
 ### Certifications
 
 | Certificate | Issuer | Verify |
