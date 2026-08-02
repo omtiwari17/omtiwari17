@@ -1,36 +1,42 @@
 # Hi, I'm Om Tiwari
 
-**Software Engineer** · AI · Full-Stack · Cloud · DevOps
+**Software Engineer** · Python & Django Developer · AWS Academy Graduate
 
-I build intelligent systems — from multi-agent AI pipelines to production Kubernetes deployments on AWS.
+Software Engineer specializing in scalable Django REST APIs, cross-platform Flutter integrations, and highly available AWS infrastructure. Experienced in orchestrating containerized deployments, building secure CI/CD pipelines, and accelerating delivery using Agentic CLI development tools.
 
 [![Portfolio](https://img.shields.io/badge/omtiwari.tech-000?style=flat&logo=googlechrome&logoColor=white)](https://omtiwari.tech)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omtiwari17)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/omtiwari17)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:work.om.tiwari@gmail.com)
 
 ---
 
-### About
+### Experience
 
-Computer Science undergraduate (Medicaps University, Indore — graduating 2026) with a focus on backend engineering, agentic AI, and cloud infrastructure. I work across the full stack but gravitate toward systems that automate, scale, and ship.
+#### **Software Engineer Trainee** · *Engineer Philosophy Web Services Pvt. Ltd.*
+`July 2026 – Present` · Indore, MP, India
 
-AWS Academy graduate in both Cloud Foundations and Cloud Architecting. Certified in Agentic AI, DevOps, and Generative AI through Datagami × NASSCOM × IBM programs.
+- Architecting a scalable, cross-platform Personal CRM using a Django REST API and migrating the frontend to Flutter for native mobile deployment.
+- Designing custom product logic for automated relationship drift detection, tiered frequency management, and AI-assisted message drafting.
+- Orchestrating production-ready infrastructure, integrating PostgreSQL, Celery background scheduling, and real-time Firebase push notifications.
+
+#### **Cloud Architecting Intern** · *AWS Academy*
+`June 2025 – July 2025` · Remote
+
+- Architected scalable, highly available AWS infrastructure (EC2, S3, RDS, VPC) optimized via the AWS Well-Architected Framework.
+- Engineered strict IAM role-based policies and custom network routing to enforce least-privilege access and secure deployments.
 
 ---
 
 ### Tech Stack
 
-**Languages** · Python · JavaScript · C++ · SQL · HCL
+**Languages** · Python · SQL · C++ · C · Dart
 
-**AI & Agents** · CrewAI · Gemini API · LangChain · Streamlit
+**Frameworks** · Django · Flutter · Streamlit
 
-**Backend** · Django · FastAPI · REST APIs
+**Cloud & DevOps** · AWS (EKS, EC2, S3, RDS, VPC) · Docker · Kubernetes · GitHub Actions
 
-**Cloud & DevOps** · AWS (EKS, EC2, S3) · Docker · Kubernetes · GitHub Actions · Terraform
-
-**Frontend** · React · React Flow · HTML/CSS
-
-**Tools** · Git · VS Code · OpenCV · Tesseract OCR
+**Agentic & AI Tools** · Claude Code (Agentic CLI) · CrewAI · Gemini API
 
 ---
 
@@ -67,18 +73,6 @@ Visual AI pipeline builder with a React Flow drag-and-drop canvas, node abstract
 Hospital portal with role-based access control, doctor dashboards, email automation, and tokenized secure family pages for patient status sharing.
 
 `Django` `RBAC` `SMTP` `SQLite`
-
-#### [Multi-Agent System](https://github.com/omtiwari17/Multi-agent-system) · [Live Demo](https://om-tiwari-multi-agent-system.streamlit.app/)
-
-Automates supplier sourcing and generates structured comparison reports using CrewAI agents and LLM APIs.
-
-`Python` `CrewAI` `Gemini API` `Streamlit`
-
----
-
-### Currently
-
-Building at the intersection of **agentic AI** and **cloud-native infrastructure** — designing multi-agent systems that orchestrate real-world workflows, containerized and deployed on Kubernetes.
 
 ---
 
