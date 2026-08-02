@@ -1,121 +1,118 @@
-<div align="center">
+# Hi, I'm Om Tiwari
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Om+Tiwari+%F0%9F%91%8B;Software+Engineer+%7C+DevOps;Python+%26+Django+%7C+AWS+%7C+K8s;Building+systems+that+scale+%F0%9F%9A%80)](https://github.com/omtiwari17)
+**Software Engineer** · AI · Full-Stack · Cloud · DevOps
+
+I build intelligent systems — from multi-agent AI pipelines to production Kubernetes deployments on AWS.
+
+[![Portfolio](https://img.shields.io/badge/omtiwari.tech-000?style=flat&logo=googlechrome&logoColor=white)](https://omtiwari.tech)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omtiwari17)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:work.om.tiwari@gmail.com)
+
+---
+
+### About
+
+Computer Science undergraduate (Medicaps University, Indore — graduating 2026) with a focus on backend engineering, agentic AI, and cloud infrastructure. I work across the full stack but gravitate toward systems that automate, scale, and ship.
+
+AWS Academy graduate in both Cloud Foundations and Cloud Architecting. Certified in Agentic AI, DevOps, and Generative AI through Datagami × NASSCOM × IBM programs.
+
+---
+
+### Tech Stack
+
+**Languages** · Python · JavaScript · C++ · SQL · HCL
+
+**AI & Agents** · CrewAI · Gemini API · LangChain · Streamlit
+
+**Backend** · Django · FastAPI · REST APIs
+
+**Cloud & DevOps** · AWS (EKS, EC2, S3) · Docker · Kubernetes · GitHub Actions · Terraform
+
+**Frontend** · React · React Flow · HTML/CSS
+
+**Tools** · Git · VS Code · OpenCV · Tesseract OCR
+
+---
+
+### Featured Projects
+
+#### [Manufacturing AI Ecosystem](https://github.com/omtiwari17/Manufacturing-AI-Ecosystem) ★
+
+A unified manufacturing intelligence platform integrating multimodal GenAI for concept design, agentic AI for supplier research, and a fully automated CI/CD pipeline deploying to AWS EKS.
+
+`Python` `CrewAI` `Gemini` `AWS EKS` `Docker` `Kubernetes` `GitHub Actions`
+
+---
+
+#### [Multi-Agent K8s Deployment](https://github.com/omtiwari17/Deploy-Manufacturing-App-to-Kubernetes)
+
+CrewAI multi-agent system containerized and deployed to AWS EKS with zero-downtime rolling updates and CI/CD auto-deploys on every push.
+
+`Docker` `Kubernetes` `AWS EKS` `GitHub Actions`
+
+#### [Live Cricket WinPulse](https://github.com/omtiwari17/live-cricket-winpulse) · [Live Demo](https://live-cricket-winpulse.onrender.com/)
+
+Real-time cricket dashboard with a custom ball-by-ball win probability engine (WASP algorithm), dynamic API polling, and key rotation.
+
+`Django` `Python` `REST API` `Sports Analytics`
+
+#### [VectorShift Pipeline Builder](https://github.com/omtiwari17/vectorshift-pipeline-builder)
+
+Visual AI pipeline builder with a React Flow drag-and-drop canvas, node abstraction system, dynamic variable detection, and FastAPI DAG validation backend.
+
+`React` `React Flow` `FastAPI` `Python`
+
+#### [Patient Depict System](https://github.com/omtiwari17/Patient-Depict-System)
+
+Hospital portal with role-based access control, doctor dashboards, email automation, and tokenized secure family pages for patient status sharing.
+
+`Django` `RBAC` `SMTP` `SQLite`
+
+#### [Multi-Agent System](https://github.com/omtiwari17/Multi-agent-system) · [Live Demo](https://om-tiwari-multi-agent-system.streamlit.app/)
+
+Automates supplier sourcing and generates structured comparison reports using CrewAI agents and LLM APIs.
+
+`Python` `CrewAI` `Gemini API` `Streamlit`
+
+---
+
+### Currently
+
+Building at the intersection of **agentic AI** and **cloud-native infrastructure** — designing multi-agent systems that orchestrate real-world workflows, containerized and deployed on Kubernetes.
+
+---
+
+### GitHub Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=omtiwari17&theme=transparent&hide_border=true&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=888&dates=555&currStreakNum=ddd&sideNums=ddd&stroke=333" />
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omtiwari17)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=60A5FA)](http://omtiwari.tech)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.om.tiwari@gmail.com)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtiwari17&bg_color=00000000&color=3b82f6&line=3b82f6&point=ddd&hide_border=true&area=true&area_color=1e3a5f" />
 </div>
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="coding illustration" />
+### Certifications
 
-### 👨‍💻 &nbsp;About Me
-
-&nbsp;🎓 &nbsp;B.Tech CSE @ **Medicaps University**, Indore · 2022–2026
-
-&nbsp;☁️ &nbsp;**AWS Academy Graduate** Cloud Architecting
-
-&nbsp;🔭 &nbsp;Currently building multi-agent AI + K8s systems
-
-&nbsp;🌐 &nbsp;Backend-first: **Python · Django · REST APIs**
-
-&nbsp;⚙️ &nbsp;DevOps: **Docker · Kubernetes · GitHub Actions · AWS**
-
-&nbsp;💡 &nbsp;I automate the boring stuff then automate the automation
-
-&nbsp;📬 &nbsp;Reach me at **work.om.tiwari@gmail.com**
-
-<br clear="right"/>
-
----
-
-### 🛠 &nbsp;Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-### 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-| 🏷️ Project | 📝 Description | 🔧 Stack |
+| Certificate | Issuer | Verify |
 |:---|:---|:---|
-| [**Multi-Agent K8s Deployment**](https://github.com/omtiwari17/Deploy-Manufacturing-App-to-Kubernetes) | CrewAI app on AWS EKS zero-downtime rolling updates, CI/CD auto-deploys on every push | `Docker` `K8s` `AWS EKS` `GH Actions` |
-| [**Live Cricket WinPulse**](https://github.com/omtiwari17/live-cricket-winpulse) | Real-time dashboard with custom ball-by-ball win probability engine, live on Render | `Django` `Python` `REST API` |
-| [**Patient Depict System**](https://github.com/omtiwari17/Patient-Depict-System) | Hospital portal with RBAC, doctor dashboards, email automation & tokenized family pages | `Django` `RBAC` `SMTP` `SQLite` |
-| [**Multi-Agent System**](https://github.com/omtiwari17/Multi-agent-system) | Automates supplier sourcing & comparison reports via CrewAI + LLMs | `Python` `CrewAI` `LLMs` |
-| [**Find My Book**](https://github.com/omtiwari17/Find_My_Book) | Snap a cover → OCR extracts title → auto-fetches book details | `Python` `OpenCV` `Tesseract` |
-
-</div>
-
----
-
-### 📊 &nbsp;GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=omtiwari17&theme=github-dark-blue&hide_border=true&background=0D1117&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=475569&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtiwari17&bg_color=0d1117&color=60a5fa&line=60a5fa&point=ffffff&hide_border=true&area=true&area_color=1e3a5f" />
-</div>
-
----
-
-### 🏅 &nbsp;Certifications
-
-<div align="center">
-
-[![Cloud Foundations](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/go/vCtp5wcR)
-[![Cloud Architecting](https://img.shields.io/badge/AWS_Academy-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/go/Y4C9LAtF)
-[![Agentic AI](https://img.shields.io/badge/Datagami_×_NASSCOM-Agentic_AI-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://drive.google.com/file/d/1HOYkEgzWUkQny9Xchn0THtwkviwbcTcK/view?usp=sharing)
-[![DevOps Foundation](https://img.shields.io/badge/Datagami_×_NASSCOM-DevOps_Foundation-326CE5?style=for-the-badge&logo=ibm&logoColor=white)](https://drive.google.com/file/d/1YSG1NZkOxdCIYHRAJteghK8ok4z_el87/view?usp=sharing)
-[![Generative AI](https://img.shields.io/badge/Datagami_×_NASSCOM-Generative_AI-6D28D9?style=for-the-badge&logo=ibm&logoColor=white)](https://drive.google.com/file/d/1NWmMbDUPWa6SZgWgfcSQrnFDcJZJ6stM/view?usp=sharing)
-
-<br/>
-
-| Certificate | Issued by | Date | Hours | Verify |
-|:---|:---|:---|:---:|:---|
-| ☁️ [**AWS Academy Cloud Foundations**](https://www.credly.com/go/vCtp5wcR) | Amazon Web Services | Jun 17, 2025 | 20 hrs | [Credly ↗](https://www.credly.com/go/vCtp5wcR) |
-| ☁️ [**AWS Academy Cloud Architecting**](https://www.credly.com/go/Y4C9LAtF) | Amazon Web Services | Jul 2, 2025 | 60 hrs | [Credly ↗](https://www.credly.com/go/Y4C9LAtF) |
-| 🤖 [**Agentic AI**](https://drive.google.com/file/d/1HOYkEgzWUkQny9Xchn0THtwkviwbcTcK/view?usp=sharing) | Datagami × NASSCOM × IBM | Jan – Feb 2026 | 80 hrs | `EDU-2026-TBNYN` |
-| ⚙️ [**DevOps Foundation**](https://drive.google.com/file/d/1YSG1NZkOxdCIYHRAJteghK8ok4z_el87/view?usp=sharing) | Datagami × NASSCOM × IBM | Feb – Mar 2026 | 80 hrs | `EDU-2026-VF5US` |
-| 🧠 [**Generative AI**](https://drive.google.com/file/d/1NWmMbDUPWa6SZgWgfcSQrnFDcJZJ6stM/view?usp=sharing) | Datagami × NASSCOM × IBM | Apr – May 2026 | 80 hrs | `EDU-2026-MDGWG` |
-
-</div>
+| AWS Academy Cloud Architecting | Amazon Web Services | [Credly ↗](https://www.credly.com/go/Y4C9LAtF) |
+| AWS Academy Cloud Foundations | Amazon Web Services | [Credly ↗](https://www.credly.com/go/vCtp5wcR) |
+| Agentic AI (80 hrs) | Datagami × NASSCOM × IBM | [Certificate ↗](https://drive.google.com/file/d/1HOYkEgzWUkQny9Xchn0THtwkviwbcTcK/view?usp=sharing) |
+| DevOps Foundation (80 hrs) | Datagami × NASSCOM × IBM | [Certificate ↗](https://drive.google.com/file/d/1YSG1NZkOxdCIYHRAJteghK8ok4z_el87/view?usp=sharing) |
+| Generative AI (80 hrs) | Datagami × NASSCOM × IBM | [Certificate ↗](https://drive.google.com/file/d/1NWmMbDUPWa6SZgWgfcSQrnFDcJZJ6stM/view?usp=sharing) |
 
 ---
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* - John Johnson
-
-<br/>
-
-![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+[![Portfolio](https://img.shields.io/badge/omtiwari.tech-000?style=flat&logo=googlechrome&logoColor=white)](https://omtiwari.tech)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omtiwari17)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/omtiwari17)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:work.om.tiwari@gmail.com)
 
 </div>
