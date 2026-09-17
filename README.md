@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-Software Engineer specializing in scalable **Django REST APIs**, cross-platform **Flutter** integrations, and highly available **AWS infrastructure**. Experienced in orchestrating containerized deployments, building secure **CI/CD pipelines**, and accelerating delivery using **Claude Code (Agentic CLI)**.
+Software Engineer specializing in scalable **Django REST APIs**, cloud-native backend systems, and highly available **AWS infrastructure**. Experienced in orchestrating containerized deployments, building secure **CI/CD pipelines**, and accelerating delivery using **Claude Code (Agentic CLI)**.
 
 ---
 
@@ -29,7 +29,7 @@ Software Engineer specializing in scalable **Django REST APIs**, cross-platform 
 
 > #### **Software Engineer Trainee** · *Engineer Philosophy Web Services Pvt. Ltd.*
 > `July 2026 – Present` · Indore, India  
-> • Architecting a scalable, cross-platform **Personal CRM** using Django REST API & Flutter mobile app.  
+> • Architecting a scalable **Personal CRM** backend using Django REST API.  
 > • Designing product logic for **relationship drift detection**, frequency management, and AI message drafting.  
 > • Production stack: PostgreSQL, Celery background scheduling, and Firebase real-time push.
 
@@ -46,10 +46,9 @@ Software Engineer specializing in scalable **Django REST APIs**, cross-platform 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
