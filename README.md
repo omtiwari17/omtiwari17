@@ -27,11 +27,11 @@ Software Engineer specializing in scalable **Django REST APIs**, cloud-native ba
 
 ### 💼 Professional Experience
 
-> #### **Software Engineer Trainee** · *Engineer Philosophy Web Services Pvt. Ltd.*
+> #### **Software Engineer** · *Engineer Philosophy Web Services Pvt. Ltd.*
 > `July 2026 – Present` · Indore, India  
-> • Architecting a scalable **Personal CRM** backend using Django REST API.  
-> • Designing product logic for **relationship drift detection**, frequency management, and AI message drafting.  
-> • Production stack: PostgreSQL, Celery background scheduling, and Firebase real-time push.
+> • Architected two cross-platform products: a Personal CRM and a postpartum coaching app, both powered by Django REST APIs.  
+> • Developed business logic for CRM reminders, relationship tracking, and daily coaching challenges.  
+> • Managed production infrastructure using PostgreSQL, Docker, scheduled jobs, and Firebase push notifications across iOS, Android, and web.
 
 > #### **Cloud Architecting Intern** · *AWS Academy*
 > `June 2025 – July 2025` · Remote  
